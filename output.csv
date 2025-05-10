@@ -1,0 +1,31 @@
+date,company,actual_cost,forecast_cost
+2023-01-01,Fjármálaráðuneytið,1045000,1100000
+2023-01-01,Mennta- og barnamálaráðuneytið,880000,900000
+2023-01-01,Heilbrigðisráðuneytið,1250000,1300000
+2023-02-01,Fjármálaráðuneytið,1020000,1085000
+2023-02-01,Mennta- og barnamálaráðuneytið,900000,920000
+2023-02-01,Heilbrigðisráðuneytið,1275000,1290000
+2023-03-01,Fjármálaráðuneytið,1110000,1125000
+2023-03-01,Mennta- og barnamálaráðuneytið,890000,930000
+2023-03-01,Heilbrigðisráðuneytið,1280000,1330000
+2023-04-01,Fjármálaráðuneytið,990000,1010000
+2023-04-01,Mennta- og barnamálaráðuneytið,870000,900000
+2023-04-01,Heilbrigðisráðuneytið,1200000,1250000
+2023-05-01,Fjármálaráðuneytið,1050000,1070000
+2023-05-01,Mennta- og barnamálaráðuneytið,910000,940000
+2023-05-01,Heilbrigðisráðuneytið,1300000,1320000
+2023-06-01,Fjármálaráðuneytið,1080000,1100000
+2023-06-01,Mennta- og barnamálaráðuneytið,920000,950000
+2023-06-01,Heilbrigðisráðuneytið,1350000,1360000
+2023-07-01,Fjármálaráðuneytið,1060000,1090000
+2023-07-01,Mennta- og barnamálaráðuneytið,940000,960000
+2023-07-01,Heilbrigðisráðuneytið,1320000,1350000
+2023-08-01,Fjármálaráðuneytið,1000000,1020000
+2023-08-01,Mennta- og barnamálaráðuneytið,930000,950000
+2023-08-01,Heilbrigðisráðuneytið,1310000,1335000
+2023-09-01,Fjármálaráðuneytið,1070000,1105000
+2023-09-01,Mennta- og barnamálaráðuneytið,950000,960000
+2023-09-01,Heilbrigðisráðuneytið,1370000,1380000
+2023-10-01,Fjármálaráðuneytið,1110000,1120000
+2023-10-01,Mennta- og barnamálaráðuneytið,980000,990000
+2023-10-01,Heilbrigðisráðuneytið,1400000,1420000
